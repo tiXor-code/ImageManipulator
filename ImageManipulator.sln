@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulator", "ImageManipulator\ImageManipulator.csproj", "{788336C7-601F-4780-BBCA-38FC1C66FA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{4A001376-E72C-4A1E-AFB0-E8D955CB43E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{60AA86F1-AA31-447E-90E6-B671B458AA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788336C7-601F-4780-BBCA-38FC1C66FA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788336C7-601F-4780-BBCA-38FC1C66FA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788336C7-601F-4780-BBCA-38FC1C66FA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788336C7-601F-4780-BBCA-38FC1C66FA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A001376-E72C-4A1E-AFB0-E8D955CB43E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A001376-E72C-4A1E-AFB0-E8D955CB43E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A001376-E72C-4A1E-AFB0-E8D955CB43E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A001376-E72C-4A1E-AFB0-E8D955CB43E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AA86F1-AA31-447E-90E6-B671B458AA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AA86F1-AA31-447E-90E6-B671B458AA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AA86F1-AA31-447E-90E6-B671B458AA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AA86F1-AA31-447E-90E6-B671B458AA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5312782-3859-416E-AF44-E66D804D6BEC}
+	EndGlobalSection
+EndGlobal
