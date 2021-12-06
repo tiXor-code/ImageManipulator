@@ -48,5 +48,12 @@ namespace Server
         /// <returns>the flipped Image</returns>
         Image VerticalFlipImage(String pUid);
 
+        /// <summary>
+        /// When all the pictureBoxes available in the window are filled, the ones that are going to be replaced are getting deleted
+        /// Created by Teodor-Cristian Lutoiu
+        /// Version: 2.4 06.12.2021
+        /// </summary>
+        void Unload();
+
      }
 }
